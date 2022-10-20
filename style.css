@@ -1,0 +1,69 @@
+body{
+    background-attachment: fixed;
+}
+.nav-link {
+    color: white;
+}
+.navbar-toggler-icon {
+    margin-left: 100%;
+   
+}
+
+button {
+    overflow: visible;
+}
+.top-container {
+    background-color: rgb(103, 160, 95);
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+h1 {
+    background-color: rgb(103, 160, 95);
+    padding-left: 0%;
+}
+.top-container-ibro {
+    margin-top: 4%;
+}
+h3 {
+    padding-top: 2%;
+    margin-left: 15%;
+}
+.center {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.column {
+    display: inline-block;
+    margin-right: 4.3%;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.divine {
+    background-color: white;
+    padding-top: 4%;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-bottom: 10%;
+}
+.form-check {
+    padding-right: 74%;
+}
+.row {
+    display: block;
+}    
+.top {
+    background-color: darkgray;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 3%;
+    padding-bottom: 4%;
+}
+.top-clear,
+.top-up {
+    padding-left: 5%;
+}
